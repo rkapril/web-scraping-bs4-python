@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Udemy\Al Sweigart\S13\.venv
+set VIRTUAL_ENV=C:\Users\User\Desktop\Desktop\GitHub\web-scraping-bs4-python\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
